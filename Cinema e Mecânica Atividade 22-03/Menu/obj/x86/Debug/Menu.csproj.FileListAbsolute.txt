@@ -1,0 +1,62 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\Menu\bin\Debug\Menu.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Menu\bin\Debug\Menu.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\Menu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\Menu\obj\x86\Debug\Menu.frmMenu.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Menu\obj\x86\Debug\Menu.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Menu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\AppData\Local\Temporary Projects\Menu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno\AppData\Local\Temporary Projects\Menu\obj\x86\Debug\Menu.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Menu\obj\x86\Debug\Menu.pdb
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\Menu\Menu\obj\x86\Debug\Menu.exe
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\Menu\Menu\obj\x86\Debug\Menu.pdb
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\Menu\Menu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\Menu\Menu\obj\x86\Debug\Menu.frmMenu.resources
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\Menu\Menu\obj\x86\Debug\Menu.Properties.Resources.resources
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\Menu\Menu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\Menu\Menu\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ETEC\C#\Windows Application\Menu\Menu\obj\x86\Debug\Menu.exe
+D:\ETEC\C#\Windows Application\Menu\Menu\obj\x86\Debug\Menu.pdb
+D:\ETEC\C#\Windows Application\Menu\Menu\bin\Debug\Menu.exe
+D:\ETEC\C#\Windows Application\Menu\Menu\bin\Debug\Menu.pdb
+D:\ETEC\C#\Windows Application\Menu\Menu\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ETEC\C#\Windows Application\Menu\Menu\obj\x86\Debug\Menu.frmMenu.resources
+D:\ETEC\C#\Windows Application\Menu\Menu\obj\x86\Debug\Menu.Properties.Resources.resources
+D:\ETEC\C#\Windows Application\Menu\Menu\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ETEC\C#\Windows Application\Menu\Menu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno\Desktop\Menu\Menu\obj\x86\Debug\Menu.exe
+C:\Users\Aluno\Desktop\Menu\Menu\obj\x86\Debug\Menu.pdb
+C:\Users\Aluno\Desktop\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\Aluno\Desktop\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\Aluno\Desktop\Menu\Menu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Menu\Menu\obj\x86\Debug\Menu.frmMenu.resources
+C:\Users\Aluno\Desktop\Menu\Menu\obj\x86\Debug\Menu.frmTeste1.resources
+C:\Users\Aluno\Desktop\Menu\Menu\obj\x86\Debug\Menu.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Menu\Menu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\Desktop\Menu\Menu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno\Desktop\Menu\Menu\obj\x86\Debug\Menu.frmTeste2.resources
+F:\ETEC\C#\Windows Application\Guilherme Rodrigues - Atividade 22-03\Menu\obj\x86\Debug\Menu.exe
+F:\ETEC\C#\Windows Application\Guilherme Rodrigues - Atividade 22-03\Menu\obj\x86\Debug\Menu.pdb
+F:\ETEC\C#\Windows Application\Guilherme Rodrigues - Atividade 22-03\Menu\bin\Debug\Menu.exe
+F:\ETEC\C#\Windows Application\Guilherme Rodrigues - Atividade 22-03\Menu\bin\Debug\Menu.pdb
+F:\ETEC\C#\Windows Application\Guilherme Rodrigues - Atividade 22-03\Menu\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ETEC\C#\Windows Application\Guilherme Rodrigues - Atividade 22-03\Menu\obj\x86\Debug\Menu.frmMenu.resources
+F:\ETEC\C#\Windows Application\Guilherme Rodrigues - Atividade 22-03\Menu\obj\x86\Debug\Menu.frmTeste1.resources
+F:\ETEC\C#\Windows Application\Guilherme Rodrigues - Atividade 22-03\Menu\obj\x86\Debug\Menu.frmTeste2.resources
+F:\ETEC\C#\Windows Application\Guilherme Rodrigues - Atividade 22-03\Menu\obj\x86\Debug\Menu.Properties.Resources.resources
+F:\ETEC\C#\Windows Application\Guilherme Rodrigues - Atividade 22-03\Menu\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ETEC\C#\Windows Application\Guilherme Rodrigues - Atividade 22-03\Menu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno\Desktop\Guilherme Rodrigues UPGRADE- Atividade 22-03\Menu\obj\x86\Debug\Menu.exe
+C:\Users\Aluno\Desktop\Guilherme Rodrigues UPGRADE- Atividade 22-03\Menu\obj\x86\Debug\Menu.pdb
+C:\Users\Aluno\Desktop\Guilherme Rodrigues UPGRADE- Atividade 22-03\Menu\bin\Debug\Menu.exe
+C:\Users\Aluno\Desktop\Guilherme Rodrigues UPGRADE- Atividade 22-03\Menu\bin\Debug\Menu.pdb
+C:\Users\Aluno\Desktop\Guilherme Rodrigues UPGRADE- Atividade 22-03\Menu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Guilherme Rodrigues UPGRADE- Atividade 22-03\Menu\obj\x86\Debug\Menu.frmMenu.resources
+C:\Users\Aluno\Desktop\Guilherme Rodrigues UPGRADE- Atividade 22-03\Menu\obj\x86\Debug\Menu.frmTeste1.resources
+C:\Users\Aluno\Desktop\Guilherme Rodrigues UPGRADE- Atividade 22-03\Menu\obj\x86\Debug\Menu.frmTeste2.resources
+C:\Users\Aluno\Desktop\Guilherme Rodrigues UPGRADE- Atividade 22-03\Menu\obj\x86\Debug\Menu.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Guilherme Rodrigues UPGRADE- Atividade 22-03\Menu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\Desktop\Guilherme Rodrigues UPGRADE- Atividade 22-03\Menu\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ETEC\C#\Windows Application\Cinema e Mecânica Atividade 22-03\Menu\obj\x86\Debug\Menu.exe
+F:\ETEC\C#\Windows Application\Cinema e Mecânica Atividade 22-03\Menu\obj\x86\Debug\Menu.pdb
