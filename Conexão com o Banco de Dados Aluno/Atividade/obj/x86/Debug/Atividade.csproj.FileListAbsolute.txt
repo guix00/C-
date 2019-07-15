@@ -1,0 +1,40 @@
+C:\Users\Aluno\Desktop\Atividade\Atividade\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Atividade\Atividade\obj\x86\Debug\Atividade.Form1.resources
+C:\Users\Aluno\Desktop\Atividade\Atividade\obj\x86\Debug\Atividade.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Atividade\Atividade\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\Desktop\Atividade\Atividade\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno\Desktop\Atividade\Atividade\bin\Debug\Atividade.exe
+C:\Users\Aluno\Desktop\Atividade\Atividade\bin\Debug\Atividade.pdb
+C:\Users\Aluno\Desktop\Atividade\Atividade\obj\x86\Debug\Atividade.exe
+C:\Users\Aluno\Desktop\Atividade\Atividade\obj\x86\Debug\Atividade.pdb
+C:\Users\Aluno\Desktop\Guilherme Rodrigues Atividade 31-05\Atividade\obj\x86\Debug\Atividade.exe
+C:\Users\Aluno\Desktop\Guilherme Rodrigues Atividade 31-05\Atividade\obj\x86\Debug\Atividade.pdb
+G:\ETEC\C#\Windows Application\Banco de Dados Atividade 31-05\Guilherme Rodrigues Atividade 31-05\Atividade\obj\x86\Debug\Atividade.exe
+G:\ETEC\C#\Windows Application\Banco de Dados Atividade 31-05\Guilherme Rodrigues Atividade 31-05\Atividade\obj\x86\Debug\Atividade.pdb
+G:\ETEC\C#\Windows Application\Banco de Dados Atividade 31-05\Guilherme Rodrigues Atividade 31-05\Atividade\bin\Debug\Atividade.exe
+G:\ETEC\C#\Windows Application\Banco de Dados Atividade 31-05\Guilherme Rodrigues Atividade 31-05\Atividade\bin\Debug\Atividade.pdb
+G:\ETEC\C#\Windows Application\Banco de Dados Atividade 31-05\Guilherme Rodrigues Atividade 31-05\Atividade\obj\x86\Debug\Atividade.Form1.resources
+G:\ETEC\C#\Windows Application\Banco de Dados Atividade 31-05\Guilherme Rodrigues Atividade 31-05\Atividade\obj\x86\Debug\Atividade.Properties.Resources.resources
+G:\ETEC\C#\Windows Application\Banco de Dados Atividade 31-05\Guilherme Rodrigues Atividade 31-05\Atividade\obj\x86\Debug\Atividade.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Banco de Dados Atividade 31-05\Guilherme Rodrigues Atividade 31-05\Atividade\obj\x86\Debug\Atividade.exe
+C:\Users\Aluno\Desktop\Banco de Dados Atividade 31-05\Guilherme Rodrigues Atividade 31-05\Atividade\obj\x86\Debug\Atividade.pdb
+C:\Users\Aluno\Desktop\Banco de Dados Atividade 31-05\Guilherme Rodrigues Atividade 31-05\Atividade\bin\Debug\Atividade.exe
+C:\Users\Aluno\Desktop\Banco de Dados Atividade 31-05\Guilherme Rodrigues Atividade 31-05\Atividade\bin\Debug\Atividade.pdb
+C:\Users\Aluno\Desktop\Banco de Dados Atividade 31-05\Guilherme Rodrigues Atividade 31-05\Atividade\obj\x86\Debug\Atividade.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Banco de Dados Atividade 31-05\Guilherme Rodrigues Atividade 31-05\Atividade\obj\x86\Debug\Atividade.Form1.resources
+C:\Users\Aluno\Desktop\Banco de Dados Atividade 31-05\Guilherme Rodrigues Atividade 31-05\Atividade\obj\x86\Debug\Atividade.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Banco de Dados Atividade 31-05\Guilherme Rodrigues Atividade 31-05\Atividade\obj\x86\Debug\Atividade.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Banco de Dados Atividade 31-05\Guilherme Rodrigues Atividade 31-05\Atividade\bin\Debug\Atividade.exe.config
+C:\Users\Aluno\Desktop\Guilherme Rodrigues Atividade 31-05\Atividade\bin\Debug\Atividade.exe.config
+C:\Users\Aluno\Desktop\Guilherme Rodrigues Atividade 31-05\Atividade\bin\Debug\Atividade.exe
+C:\Users\Aluno\Desktop\Guilherme Rodrigues Atividade 31-05\Atividade\bin\Debug\Atividade.pdb
+C:\Users\Aluno\Desktop\Guilherme Rodrigues Atividade 31-05\Atividade\obj\x86\Debug\Atividade.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Guilherme Rodrigues Atividade 31-05\Atividade\obj\x86\Debug\Atividade.Form1.resources
+C:\Users\Aluno\Desktop\Guilherme Rodrigues Atividade 31-05\Atividade\obj\x86\Debug\Atividade.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Guilherme Rodrigues Atividade 31-05\Atividade\obj\x86\Debug\Atividade.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Guilherme Rodrigues Atividade Recuperação\Atividade\bin\Debug\Atividade.exe.config
+C:\Users\Aluno\Desktop\Guilherme Rodrigues Atividade Recuperação\Atividade\obj\x86\Debug\Atividade.exe
+C:\Users\Aluno\Desktop\Guilherme Rodrigues Atividade Recuperação\Atividade\obj\x86\Debug\Atividade.pdb
+H:\ETEC\C#\Windows Application\Recuperação Banco Aluno\Atividade\bin\Debug\Atividade.exe.config
+H:\ETEC\C#\Windows Application\Recuperação Banco Aluno\Atividade\obj\x86\Debug\Atividade.exe
+H:\ETEC\C#\Windows Application\Recuperação Banco Aluno\Atividade\obj\x86\Debug\Atividade.pdb
